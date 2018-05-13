@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "jQuery Plugin",
+    "description": "jQuery plugin for turning any element into a link",
+    "keywords": [
+        "link",
+        "html"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "PaddyPopeye",
+        "url": "********************************"
+    },
+    "maintainers": [
+        {
+            "name": "PaddyPopeye",
+            "email": "paddypopeye@hotmail.com",
+            "url": "paddypopeye@hotmail.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://mit-license.org/"
+        }
+    ],
+    "homepage": "https://github.com/paddypopeye/jQueryPlugin_linkIt/tree/jQueryPlugin_linkIt",
+    "docs": "https://github.com/paddypopeye/jQueryPlugin_linkIt/tree/jQueryPlugin_linkIt",
+    	
+	"dependencies": {
+        "jquery": ">=1.9"
+    }
+}
