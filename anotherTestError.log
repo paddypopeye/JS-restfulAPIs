@@ -1,0 +1,1418 @@
+{"message":"Testing winston is working","stack":"Error: Testing winston is working\n    at router.get (/home/eugene/NodeJS/RentalAPI/routes/genres.js:10:11)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:317:13)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:45:33)\n    at xXssProtection (/home/eugene/NodeJS/RentalAPI/node_modules/x-xss-protection/index.js:26:7)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:49:7)\n    at nosniff (/home/eugene/NodeJS/RentalAPI/node_modules/dont-sniff-mimetype/index.js:4:5)","level":"error","timestamp":"2018-09-09T16:29:51.736Z"}
+{"message":"Testing winston is working","stack":"Error: Testing winston is working\n    at router.get (/home/eugene/NodeJS/RentalAPI/routes/genres.js:10:11)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:317:13)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:45:33)\n    at xXssProtection (/home/eugene/NodeJS/RentalAPI/node_modules/x-xss-protection/index.js:26:7)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:49:7)\n    at nosniff (/home/eugene/NodeJS/RentalAPI/node_modules/dont-sniff-mimetype/index.js:4:5)","level":"error","timestamp":"2018-09-09T16:42:25.610Z"}
+{"message":"Testing winston is working","stack":"Error: Testing winston is working\n    at router.get (/home/eugene/NodeJS/RentalAPI/routes/genres.js:10:11)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:317:13)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:45:33)\n    at xXssProtection (/home/eugene/NodeJS/RentalAPI/node_modules/x-xss-protection/index.js:26:7)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:49:7)\n    at nosniff (/home/eugene/NodeJS/RentalAPI/node_modules/dont-sniff-mimetype/index.js:4:5)","level":"error","timestamp":"2018-09-09T16:46:01.841Z"}
+{"message":"Testing winston is working","stack":"Error: Testing winston is working\n    at router.get (/home/eugene/NodeJS/RentalAPI/routes/genres.js:10:11)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:317:13)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:45:33)\n    at xXssProtection (/home/eugene/NodeJS/RentalAPI/node_modules/x-xss-protection/index.js:26:7)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:49:7)\n    at nosniff (/home/eugene/NodeJS/RentalAPI/node_modules/dont-sniff-mimetype/index.js:4:5)","level":"info","timestamp":"2018-09-09T17:08:25.077Z"}
+{"message":"Testing winston is working","stack":"Error: Testing winston is working\n    at router.get (/home/eugene/NodeJS/RentalAPI/routes/genres.js:10:11)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:317:13)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:45:33)\n    at xXssProtection (/home/eugene/NodeJS/RentalAPI/node_modules/x-xss-protection/index.js:26:7)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:49:7)\n    at nosniff (/home/eugene/NodeJS/RentalAPI/node_modules/dont-sniff-mimetype/index.js:4:5)","level":"info","timestamp":"2018-09-09T17:16:06.420Z"}
+{"message":"Something failed during startup....!!","stack":"Error: Something failed during startup....!!\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:35:7)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-09T17:17:45.414Z"}
+{"message":"Something failed during startup....!!","stack":"Error: Something failed during startup....!!\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:35:7)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-09T17:19:33.607Z"}
+{"message":"Something failed during startup....!!","stack":"Error: Something failed during startup....!!\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:35:7)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-09T17:20:07.046Z"}
+{"message":"Something failed during startup....!!","stack":"Error: Something failed during startup....!!\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:36:7)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-09T17:21:26.979Z"}
+{"message":"Something failed during startup....!!","stack":"Error: Something failed during startup....!!\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:41:7)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-09T17:34:20.099Z"}
+{"message":"Something failed during startup....!!","stack":"Error: Something failed during startup....!!\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:41:7)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-09T17:34:38.137Z"}
+{"message":"Something failed during startup....!!","stack":"Error: Something failed during startup....!!\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:41:7)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-09T17:34:54.001Z"}
+{"message":"Something failed during startup....!!","stack":"Error: Something failed during startup....!!\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:46:7)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-09T17:50:30.675Z"}
+{"message":"Configuration property \"mail.password\" is not defined","stack":"Error: Configuration property \"mail.password\" is not defined\n    at Config.get (/home/eugene/NodeJS/RentalAPI/node_modules/config/lib/config.js:203:11)\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:75:38)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-10T11:04:14.352Z"}
+{"message":"Testing winston is working","stack":"Error: Testing winston is working\n    at router.get (/home/eugene/NodeJS/RentalAPI/routes/genres.js:10:11)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/eugene/NodeJS/RentalAPI/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:317:13)\n    at /home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/router/index.js:275:10)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:45:33)\n    at xXssProtection (/home/eugene/NodeJS/RentalAPI/node_modules/x-xss-protection/index.js:26:7)\n    at internalNext (/home/eugene/NodeJS/RentalAPI/node_modules/helmet/index.js:49:7)\n    at nosniff (/home/eugene/NodeJS/RentalAPI/node_modules/dont-sniff-mimetype/index.js:4:5)","level":"info","timestamp":"2018-09-10T11:08:32.267Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:29:37.918Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:30:09.215Z"}
+{"message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/topologies/server.js:564:11)\n    at emitOne (events.js:116:13)\n    at Pool.emit (events.js:211:7)\n    at Connection.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/connection/pool.js:317:12)\n    at Object.onceWrapper (events.js:317:30)\n    at emitTwo (events.js:126:13)\n    at Connection.emit (events.js:214:7)\n    at Socket.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/connection/connection.js:246:50)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at _combinedTickCallback (internal/process/next_tick.js:138:11)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","timestamp":"2018-09-10T13:43:00.795Z"}
+{"message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/topologies/server.js:564:11)\n    at emitOne (events.js:116:13)\n    at Pool.emit (events.js:211:7)\n    at Connection.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/connection/pool.js:317:12)\n    at Object.onceWrapper (events.js:317:30)\n    at emitTwo (events.js:126:13)\n    at Connection.emit (events.js:214:7)\n    at Socket.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/connection/connection.js:246:50)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at _combinedTickCallback (internal/process/next_tick.js:138:11)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","timestamp":"2018-09-10T13:43:20.108Z"}
+{"message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/topologies/server.js:564:11)\n    at emitOne (events.js:116:13)\n    at Pool.emit (events.js:211:7)\n    at Connection.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/connection/pool.js:317:12)\n    at Object.onceWrapper (events.js:317:30)\n    at emitTwo (events.js:126:13)\n    at Connection.emit (events.js:214:7)\n    at Socket.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/connection/connection.js:246:50)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at _combinedTickCallback (internal/process/next_tick.js:138:11)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","timestamp":"2018-09-10T13:47:09.343Z"}
+{"message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/topologies/server.js:564:11)\n    at emitOne (events.js:116:13)\n    at Pool.emit (events.js:211:7)\n    at Connection.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/connection/pool.js:317:12)\n    at Object.onceWrapper (events.js:317:30)\n    at emitTwo (events.js:126:13)\n    at Connection.emit (events.js:214:7)\n    at Socket.<anonymous> (/home/eugene/NodeJS/RentalAPI/node_modules/mongodb-core/lib/connection/connection.js:246:50)\n    at Object.onceWrapper (events.js:315:30)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at _combinedTickCallback (internal/process/next_tick.js:138:11)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","timestamp":"2018-09-10T13:48:17.946Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:49:13.805Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:49:40.658Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:50:39.054Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:51:01.990Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:51:40.045Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:51:54.674Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:52:34.828Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:55:16.523Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:56:31.304Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:57:06.817Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:57:47.858Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:59:14.103Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T13:59:54.941Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:00:24.776Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:01:20.902Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:02:13.796Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:02:13.801Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:02:13.802Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:02:14.279Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:03:17.388Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:03:17.392Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:03:17.393Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:03:17.756Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:03:39.169Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:03:39.174Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:03:39.175Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:03:39.524Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:03:55.467Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:03:55.472Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:03:55.473Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:03:56.013Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:04:53.224Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:04:53.229Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:04:53.230Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:04:53.578Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:05:54.938Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:05:54.943Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:05:54.944Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:05:55.300Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:06:23.665Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:06:23.670Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:06:23.672Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:06:24.057Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:07:00.536Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:07:00.541Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:07:00.541Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:07:00.913Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:07:54.765Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:07:54.774Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:07:54.774Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:07:55.249Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:08:15.278Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:08:15.291Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:08:15.292Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:08:15.734Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:08:35.181Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:08:35.185Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:08:35.186Z"}
+{"message":"Cannot find module './startup/debugging'","stack":"Error: Cannot find module './startup/debugging'\n    at Function.Module._resolveFilename (module.js:547:15)\n    at Function.Module._load (module.js:474:25)\n    at Module.require (module.js:596:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:11:1)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","code":"MODULE_NOT_FOUND","level":"error","timestamp":"2018-09-10T14:08:35.209Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:09:31.400Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:09:31.404Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:09:31.405Z"}
+{"message":"app is not defined","stack":"ReferenceError: app is not defined\n    at module.exports (/home/eugene/NodeJS/RentalAPI/startup/debugging.js:2:5)\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:11:31)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-10T14:09:31.428Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:11:57.682Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:12:24.177Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:13:33.012Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:13:33.017Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:13:33.018Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:13:33.404Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:14:45.855Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:14:45.860Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:14:45.860Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:14:45.895Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:14:46.333Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:15:49.911Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:15:49.916Z"}
+{"level":"info","message":"Mail Password: 123245","timestamp":"2018-09-10T14:15:49.916Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:15:49.958Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:15:50.322Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:22:06.550Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:22:06.555Z"}
+{"message":"Configuration property \"mail.password\" is not defined","stack":"Error: Configuration property \"mail.password\" is not defined\n    at Config.get (/home/eugene/NodeJS/RentalAPI/node_modules/config/lib/config.js:203:11)\n    at module.exports (/home/eugene/NodeJS/RentalAPI/startup/config.js:7:43)\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:6:28)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-10T14:22:06.574Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:22:38.004Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:22:38.009Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:22:38.010Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:22:38.208Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:22:38.506Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:25:17.569Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:25:17.574Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:25:17.577Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:25:17.621Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:25:18.137Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:31:01.047Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:31:01.052Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:31:01.053Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:31:01.095Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:31:01.096Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-10T14:31:01.126Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:31:01.553Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:31:52.075Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:31:52.079Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:31:52.080Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:31:52.132Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:31:52.133Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-10T14:31:52.173Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:31:52.655Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:33:41.493Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:33:41.498Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:33:41.499Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:33:41.541Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:33:41.542Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-10T14:33:41.570Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:33:41.989Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:35:47.826Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:35:47.831Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:35:47.831Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:35:47.870Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:35:47.871Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-10T14:35:47.898Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:35:48.296Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:36:04.367Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:36:04.372Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:36:04.373Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:36:04.408Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:36:04.409Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-10T14:36:04.433Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:36:04.783Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:37:24.530Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:37:24.534Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:37:24.535Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:37:24.571Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:37:24.572Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-10T14:37:24.597Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:37:24.927Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:37:59.258Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:38:27.713Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:38:27.720Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:38:27.720Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:38:27.765Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:38:27.766Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-10T14:38:27.795Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:38:28.314Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:57:23.427Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:57:23.432Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:57:23.433Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:57:23.479Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:57:23.480Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-10T14:57:23.512Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:57:24.106Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-10T14:59:30.787Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-10T14:59:30.795Z"}
+{"level":"info","message":"Mail Password: 12345454","timestamp":"2018-09-10T14:59:30.798Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:59:30.884Z"}
+{"level":"info","message":"","timestamp":"2018-09-10T14:59:30.885Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-10T14:59:30.927Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-10T14:59:31.715Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-13T14:38:48.025Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-13T14:38:48.034Z"}
+{"message":"Configuration property \"mail.password\" is not defined","stack":"Error: Configuration property \"mail.password\" is not defined\n    at Config.get (/home/eugene/NodeJS/RentalAPI/node_modules/config/lib/config.js:203:11)\n    at module.exports (/home/eugene/NodeJS/RentalAPI/startup/config.js:7:43)\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:7:28)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-13T14:38:48.098Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-13T14:39:21.698Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-13T14:39:21.703Z"}
+{"message":"Configuration property \"mail.password\" is not defined","stack":"Error: Configuration property \"mail.password\" is not defined\n    at Config.get (/home/eugene/NodeJS/RentalAPI/node_modules/config/lib/config.js:203:11)\n    at module.exports (/home/eugene/NodeJS/RentalAPI/startup/config.js:7:43)\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:7:28)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-13T14:39:21.739Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-13T14:39:53.001Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-13T14:39:53.006Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T14:39:53.006Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T14:39:53.100Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T14:39:53.101Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T14:39:53.128Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T14:39:53.453Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-13T14:40:39.347Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-13T14:40:39.352Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T14:40:39.352Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T14:40:39.385Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T14:40:39.386Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T14:40:39.410Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T14:40:39.760Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:39:44.404Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:39:44.408Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:39:44.409Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:39:44.738Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:39:44.738Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:39:44.788Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:39:45.087Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:40:03.572Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:40:03.577Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:40:03.577Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:40:03.653Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:40:03.653Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:40:03.704Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:40:03.986Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-13T15:44:31.118Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-13T15:44:31.123Z"}
+{"message":"Configuration property \"mail.password\" is not defined","stack":"Error: Configuration property \"mail.password\" is not defined\n    at Config.get (/home/eugene/NodeJS/RentalAPI/node_modules/config/lib/config.js:203:11)\n    at module.exports (/home/eugene/NodeJS/RentalAPI/startup/config.js:7:43)\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:7:28)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","level":"error","timestamp":"2018-09-13T15:44:31.159Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-13T15:45:07.866Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-13T15:45:07.871Z"}
+{"level":"info","message":"Mail Password: 123434","timestamp":"2018-09-13T15:45:07.871Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:45:07.905Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:45:07.905Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:45:07.930Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:45:08.244Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:46:42.295Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:46:42.300Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:46:42.301Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:46:42.376Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:46:42.376Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:46:42.533Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:46:47.428Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:48:17.145Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:48:17.149Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:48:17.150Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:48:17.219Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:48:17.220Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:48:17.271Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:48:17.575Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-13T15:49:24.335Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-13T15:49:24.340Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:49:24.340Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:49:24.374Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:49:24.374Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:49:24.399Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:49:24.740Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:50:16.036Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:50:16.041Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:50:16.042Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:50:16.132Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:50:16.132Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:50:16.186Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:50:16.536Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:52:05.763Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:52:05.770Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:52:05.771Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:52:05.984Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:52:05.985Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:52:06.049Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:52:06.399Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:54:36.814Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:54:36.820Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:54:36.821Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:54:36.973Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:54:36.973Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:54:37.025Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:54:37.311Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:55:10.949Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:55:10.954Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:55:10.955Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:55:11.032Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:55:11.032Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:55:11.083Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:55:11.618Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:55:58.924Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:55:58.932Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:55:58.933Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:55:59.116Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:55:59.116Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:55:59.168Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:55:59.489Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:56:47.755Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:56:47.760Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:56:47.761Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:56:47.849Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:56:47.849Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:56:47.913Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:56:48.356Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:57:26.576Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:57:26.583Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:57:26.586Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:57:26.786Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:57:26.787Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:57:26.849Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:57:27.909Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:57:30.100Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:57:30.106Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:57:30.107Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:57:30.198Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:57:30.199Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:57:30.266Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:57:31.022Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T15:59:53.929Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T15:59:53.938Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T15:59:53.939Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:59:54.098Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T15:59:54.098Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T15:59:54.196Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T15:59:54.811Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:02:39.123Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:02:39.200Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:02:39.211Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:02:39.344Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:02:39.345Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:02:39.419Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:02:39.805Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:10:44.200Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:10:44.209Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:10:44.210Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:10:44.381Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:10:44.382Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:10:44.433Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:10:44.701Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:30:14.574Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:30:14.586Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:30:14.588Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:30:14.797Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:30:14.800Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:30:14.904Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:30:15.300Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:33:59.294Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:33:59.303Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:33:59.304Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:33:59.541Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:33:59.542Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:33:59.603Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:34:00.006Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:34:30.453Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:34:30.459Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:34:30.460Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:34:30.550Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:34:30.554Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:34:30.625Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:34:31.334Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:36:57.822Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:36:57.833Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:36:57.834Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:36:58.103Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:36:58.107Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:36:58.208Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:36:58.687Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:38:21.886Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:38:21.892Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:38:21.893Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:38:22.008Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:38:22.009Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:38:22.088Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:38:22.700Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:39:44.049Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:39:44.058Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:39:44.059Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:39:44.213Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:39:44.214Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:39:44.290Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:39:44.859Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:42:08.385Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:42:08.394Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:42:08.395Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:42:08.543Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:42:08.544Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:42:08.625Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:42:09.124Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:43:44.849Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:43:44.857Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:43:44.858Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:43:44.963Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:43:44.963Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:43:45.057Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:43:45.574Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:45:06.214Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:45:06.222Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:45:06.223Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:45:06.423Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:45:06.423Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:45:06.490Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:45:06.847Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:50:28.964Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:50:28.973Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:50:28.974Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:50:29.065Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:50:29.065Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:50:29.142Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:50:29.500Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:51:43.216Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:51:43.226Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:51:43.227Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:51:43.431Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:51:43.437Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:51:43.511Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:51:43.946Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:52:46.928Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:52:46.933Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:52:46.934Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:52:47.041Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:52:47.041Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:52:47.101Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:52:47.512Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-13T16:54:34.887Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-13T16:54:34.901Z"}
+{"level":"info","message":"Mail Password: 1234535","timestamp":"2018-09-13T16:54:34.902Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:54:35.239Z"}
+{"level":"info","message":"","timestamp":"2018-09-13T16:54:35.239Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-13T16:54:35.318Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-13T16:54:35.899Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:15:31.147Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-14T10:15:31.152Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:15:31.736Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:17:04.008Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-14T10:17:04.016Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:17:04.421Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:17:37.800Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-14T10:17:37.808Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:17:38.180Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:19:33.829Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-14T10:19:33.835Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:19:34.280Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:20:44.547Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-14T10:20:44.551Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:20:44.853Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:21:11.061Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-14T10:21:11.066Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:21:11.330Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:21:55.870Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-14T10:21:55.875Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:21:56.443Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:26:34.448Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-14T10:26:34.453Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:26:35.021Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:31:49.892Z"}
+{"level":"info","message":"Mail Server: def-mail-server","timestamp":"2018-09-14T10:31:49.896Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:31:50.521Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:36:31.282Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:36:31.287Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:36:31.770Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:38:02.537Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:38:02.542Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:38:03.167Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:38:46.309Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:38:46.313Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:38:46.823Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:39:47.342Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:39:47.347Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:39:47.625Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:40:41.166Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:40:41.171Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:40:41.664Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:41:48.160Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:41:48.167Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:41:48.539Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:43:36.862Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:43:36.867Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:43:36.868Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:43:38.926Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:43:38.926Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:43:38.972Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:43:39.297Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:44:25.750Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:44:25.763Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:44:25.764Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:44:25.933Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:44:25.933Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:44:25.981Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:44:26.256Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:48:28.806Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:48:28.810Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:48:28.811Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:48:28.879Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:48:28.879Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:48:28.927Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2018-09-14T10:48:29.150Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:51:13.735Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:51:13.739Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:51:13.740Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:51:13.809Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:51:13.809Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:51:13.861Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T10:51:14.144Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:51:37.027Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:51:37.032Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:51:37.033Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:51:37.107Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:51:37.108Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:51:37.160Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T10:51:37.416Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:52:00.983Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:52:00.988Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:52:00.988Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:52:01.063Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:52:01.064Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:52:01.111Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T10:52:01.697Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:52:43.464Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:52:43.469Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:52:43.470Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:52:43.539Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:52:43.539Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:52:43.586Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T10:52:43.832Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-14T10:53:28.958Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-14T10:53:28.963Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:53:28.964Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:53:29.003Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:53:29.003Z"}
+{"message":"listen EADDRINUSE :::3000","stack":"Error: listen EADDRINUSE :::3000\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at Server.setupListenHandle [as _listen2] (net.js:1367:14)\n    at listenInCluster (net.js:1408:12)\n    at Server.listen (net.js:1492:7)\n    at Function.listen (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/application.js:618:24)\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:15:5)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"::","port":3000,"level":"error","timestamp":"2018-09-14T10:53:29.070Z"}
+{"level":"info","message":"Application name: My RentalAPI Development","timestamp":"2018-09-14T10:54:00.085Z"}
+{"level":"info","message":"Mail Server: dev-mail-server","timestamp":"2018-09-14T10:54:00.089Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:54:00.090Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:54:00.125Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:54:00.125Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:54:00.150Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI...","timestamp":"2018-09-14T10:54:00.505Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:54:40.784Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:54:40.789Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:54:40.789Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:54:40.819Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:54:40.819Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:54:40.844Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T10:54:41.182Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:55:29.601Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:55:29.606Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:55:29.607Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:55:29.680Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:55:29.681Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:55:29.728Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T10:55:30.217Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T10:56:09.718Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T10:56:09.723Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T10:56:09.724Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:56:09.805Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T10:56:09.805Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T10:56:09.852Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T10:56:10.371Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:03:25.857Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:03:25.862Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:03:25.863Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:03:25.930Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:03:25.931Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:03:25.978Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:03:26.435Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:03:47.465Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:03:47.469Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:03:47.470Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:03:47.500Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:03:47.500Z"}
+{"message":"listen EADDRINUSE :::3000","stack":"Error: listen EADDRINUSE :::3000\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at Server.setupListenHandle [as _listen2] (net.js:1367:14)\n    at listenInCluster (net.js:1408:12)\n    at Server.listen (net.js:1492:7)\n    at Function.listen (/home/eugene/NodeJS/RentalAPI/node_modules/express/lib/application.js:618:24)\n    at Object.<anonymous> (/home/eugene/NodeJS/RentalAPI/index.js:15:5)\n    at Module._compile (module.js:652:30)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Function.Module.runMain (module.js:693:10)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3","code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"::","port":3000,"level":"error","timestamp":"2018-09-14T11:03:47.557Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:04:30.503Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:04:30.507Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:04:30.508Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:04:30.538Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:04:30.538Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:04:30.563Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:04:30.879Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:06:09.037Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:06:09.041Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:06:09.042Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:06:09.080Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:06:09.081Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:06:09.116Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:06:09.479Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:14:58.098Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:14:58.103Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:14:58.103Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:14:58.171Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:14:58.171Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:14:58.221Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:14:58.485Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:15:33.919Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:15:33.927Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:15:33.927Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:15:34.076Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:15:34.077Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:15:34.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:15:34.424Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:16:35.438Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:16:35.445Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:16:35.446Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:16:35.600Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:16:35.601Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:16:35.653Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:16:35.938Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:21:07.748Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:21:07.755Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:21:07.756Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:21:07.929Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:21:07.929Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:21:07.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:21:08.291Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:21:41.162Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:21:41.167Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:21:41.168Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:21:41.256Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:21:41.256Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:21:41.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:21:41.757Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:27:02.088Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:27:02.093Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:27:02.094Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:27:02.223Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:27:02.224Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:27:02.293Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:27:02.845Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:28:08.611Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:28:08.618Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:28:08.619Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:28:08.710Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:28:08.711Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:28:08.772Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:28:09.313Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:29:05.865Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:29:05.870Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:29:05.872Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:29:05.962Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:29:05.963Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:29:06.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:29:06.650Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:31:19.203Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:31:19.211Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:31:19.212Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:31:19.351Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:31:19.351Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:31:19.452Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:31:19.741Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:32:04.976Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:32:04.982Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:32:04.983Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:32:05.071Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:32:05.072Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:32:05.141Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:32:05.616Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:33:05.481Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:33:05.488Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:33:05.489Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:33:05.612Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:33:05.613Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:33:05.684Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:33:06.070Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:34:47.892Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:34:47.897Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:34:47.898Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:34:47.985Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:34:47.985Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:34:48.072Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:34:48.582Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:37:19.468Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:37:19.476Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:37:19.477Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:37:19.708Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:37:19.708Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:37:19.761Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:37:20.121Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:40:17.361Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:40:17.370Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:40:17.370Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:40:17.493Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:40:17.493Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:40:17.561Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:40:17.972Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:40:52.527Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:40:52.536Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:40:52.537Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:40:52.766Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:40:52.767Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:40:52.843Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:40:53.254Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:43:33.048Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:43:33.052Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:43:33.053Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:43:33.123Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:43:33.123Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:43:33.173Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:43:33.459Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:44:26.159Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:44:26.164Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:44:26.164Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:44:26.240Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:44:26.240Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:44:26.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:44:26.629Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:48:56.072Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:48:56.077Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:48:56.078Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:48:56.155Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:48:56.156Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:48:56.209Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:48:56.771Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:49:25.544Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:49:25.549Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:49:25.550Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:49:25.625Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:49:25.626Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:49:25.678Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:49:26.269Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:50:06.847Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:50:06.852Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:50:06.853Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:50:06.947Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:50:06.948Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:50:07.012Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:50:07.867Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:50:49.035Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:50:49.039Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:50:49.040Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:50:49.117Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:50:49.117Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:50:49.169Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:50:49.790Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:51:38.686Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:51:38.692Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:51:38.693Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:51:38.839Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:51:38.840Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:51:38.932Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:51:39.755Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:52:15.967Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:52:15.973Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:52:15.974Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:52:16.080Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:52:16.081Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:52:16.154Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:52:16.973Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:53:52.767Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:53:52.772Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:53:52.773Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:53:52.855Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:53:52.855Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:53:52.916Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:53:53.352Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:54:32.165Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:54:32.171Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:54:32.172Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:54:32.252Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:54:32.252Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:54:32.314Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:54:32.655Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T11:59:04.342Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T11:59:04.360Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T11:59:04.361Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:59:04.628Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T11:59:04.629Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T11:59:04.736Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T11:59:05.253Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:01:39.316Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:01:39.321Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:01:39.322Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:01:39.389Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:01:39.389Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:01:39.439Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:01:40.067Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:07:38.133Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:07:38.138Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:07:38.138Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:07:38.204Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:07:38.204Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:07:38.254Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:07:38.872Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:08:19.734Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:08:19.740Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:08:19.741Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:08:19.920Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:08:19.920Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:08:19.981Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:08:20.302Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:10:33.281Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:10:33.286Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:10:33.287Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:10:33.362Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:10:33.363Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:10:33.417Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:10:33.975Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:12:27.626Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:12:27.630Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:12:27.631Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:12:27.711Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:12:27.712Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:12:27.781Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:12:28.141Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:13:50.166Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:13:50.171Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:13:50.172Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:13:50.241Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:13:50.241Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:13:50.295Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:13:50.635Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:14:11.438Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:14:11.442Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:14:11.443Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:14:11.516Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:14:11.517Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:14:11.568Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:14:12.129Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:28:08.637Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:28:08.645Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:28:08.646Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:28:08.809Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:28:08.809Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:28:08.907Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:28:09.469Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:38:55.766Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:38:55.776Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:38:55.777Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:38:55.927Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:38:55.928Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:38:56.017Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:38:56.574Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:39:42.245Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:39:42.255Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:39:42.256Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:39:42.403Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:39:42.403Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:39:42.485Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:39:42.996Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:43:03.622Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:43:03.637Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:43:03.638Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:43:04.020Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:43:04.021Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:43:04.531Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:43:05.600Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:46:09.624Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:46:09.632Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:46:09.632Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:46:09.815Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:46:09.816Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:46:09.867Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:46:10.165Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:48:55.345Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:48:55.360Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:48:55.360Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:48:55.492Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:48:55.492Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:48:55.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:48:56.006Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:49:42.023Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:49:42.032Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:49:42.032Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:49:42.157Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:49:42.158Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:49:42.229Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:49:42.686Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:51:58.888Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:51:58.893Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:51:58.894Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:51:58.961Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:51:58.962Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:51:59.011Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:51:59.582Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:53:39.219Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:53:39.234Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:53:39.236Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:53:39.393Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:53:39.394Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:53:39.449Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:53:39.782Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T12:54:07.639Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T12:54:07.647Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T12:54:07.648Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:54:07.815Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T12:54:07.815Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T12:54:07.868Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T12:54:08.155Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:00:19.939Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:00:19.943Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:00:19.944Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:00:20.010Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:00:20.010Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:00:20.061Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:00:20.637Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:01:21.564Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:01:21.572Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:01:21.573Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:01:21.724Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:01:21.725Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:01:21.778Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:01:22.087Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:02:52.223Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:02:52.231Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:02:52.231Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:02:52.355Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:02:52.356Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:02:52.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:02:52.813Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:08:01.588Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:08:01.593Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:08:01.593Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:08:01.701Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:08:01.702Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:08:01.768Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:08:02.192Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:08:43.114Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:08:43.124Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:08:43.125Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:08:43.344Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:08:43.344Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:08:43.421Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:08:43.797Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:09:10.602Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:09:10.607Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:09:10.608Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:09:10.707Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:09:10.708Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:09:10.782Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:09:11.158Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:10:06.085Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:10:06.094Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:10:06.094Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:10:06.247Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:10:06.248Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:10:06.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:10:06.615Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:12:35.229Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:12:35.238Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:12:35.239Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:12:35.394Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:12:35.395Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:12:35.446Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:12:35.725Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:13:17.694Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:13:17.701Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:13:17.702Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:13:17.861Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:13:17.862Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:13:17.912Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:13:18.191Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:16:00.255Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:16:00.259Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:16:00.260Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:16:00.326Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:16:00.327Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:16:00.376Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:16:00.918Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:17:42.955Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:17:42.961Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:17:42.962Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:17:43.064Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:17:43.064Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:17:43.139Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:17:43.555Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:18:30.621Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:18:30.629Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:18:30.630Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:18:30.778Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:18:30.779Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:18:30.831Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:18:31.151Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:19:32.331Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:19:32.336Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:19:32.337Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:19:32.432Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:19:32.432Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:19:32.499Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:19:32.931Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:20:24.740Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:20:24.744Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:20:24.745Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:20:24.813Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:20:24.813Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:20:24.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:20:25.416Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:22:32.299Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:22:32.303Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:22:32.304Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:22:32.370Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:22:32.371Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:22:32.419Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:22:32.982Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:27:17.657Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:27:17.662Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:27:17.663Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:27:17.734Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:27:17.735Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:27:17.788Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:27:18.139Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:29:19.369Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:29:19.375Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:29:19.377Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:29:19.466Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:29:19.466Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:29:19.528Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:29:19.930Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:30:59.773Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:30:59.778Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:30:59.779Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:30:59.847Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:30:59.848Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:30:59.898Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:31:00.181Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:32:28.435Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:32:28.443Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:32:28.444Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:32:28.565Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:32:28.566Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:32:28.634Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:32:29.027Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:33:30.312Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:33:30.317Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:33:30.317Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:33:30.387Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:33:30.388Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:33:30.440Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:33:30.741Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:41:00.096Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:41:00.102Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:41:00.103Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:41:00.197Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:41:00.198Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:41:00.251Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:41:00.665Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:47:33.276Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:47:33.281Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:47:33.281Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:47:33.355Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:47:33.356Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:47:33.410Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:47:33.968Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:47:47.006Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:47:47.008Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:47:47.009Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:47:47.053Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:47:47.054Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:51:34.273Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:51:34.277Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:51:34.278Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:51:34.353Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:51:34.354Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:51:34.404Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:51:35.152Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:54:25.855Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:54:25.859Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:54:25.860Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:54:25.934Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:54:25.935Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:54:25.985Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:54:26.506Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:55:22.431Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:55:22.435Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:55:22.436Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:55:22.511Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:55:22.512Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:55:22.562Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:55:23.095Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:56:00.165Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:56:00.170Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:56:00.171Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:56:00.245Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:56:00.245Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:56:00.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:56:00.846Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:56:13.106Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:56:13.109Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:56:13.110Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:56:13.156Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:56:13.157Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:56:13.169Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:56:13.380Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:57:00.168Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:57:00.173Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:57:00.174Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:57:00.241Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:57:00.241Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:57:00.313Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:57:07.420Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T13:57:07.289Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T13:57:07.291Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T13:57:07.291Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:57:07.331Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T13:57:07.331Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T13:57:07.341Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T13:57:07.592Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:05:57.507Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:05:57.513Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:05:57.514Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:05:57.596Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:05:57.597Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:05:57.673Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:06:05.126Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:06:05.061Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:06:05.063Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:06:05.065Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:06:05.114Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:06:05.114Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:06:05.123Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:06:05.315Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:18:44.647Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:18:44.652Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:18:44.653Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:18:44.731Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:18:44.731Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:18:44.810Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:18:51.753Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:18:51.620Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:18:51.621Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:18:51.622Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:18:51.663Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:18:51.663Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:18:51.674Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:18:51.941Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:37:54.248Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:37:54.253Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:37:54.254Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:37:54.329Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:37:54.329Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:37:54.401Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:37:54.790Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:38:01.107Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:38:01.109Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:38:01.110Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:38:01.150Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:38:01.151Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:38:01.159Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:38:01.305Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:39:44.167Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:39:44.172Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:39:44.173Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:39:44.242Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:39:44.242Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:39:44.315Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:39:44.707Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:39:51.166Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:39:51.168Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:39:51.168Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:39:51.213Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:39:51.213Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:39:51.222Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:39:51.350Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:41:56.579Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:41:56.584Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:41:56.584Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:41:56.658Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:41:56.659Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:41:56.709Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:41:57.252Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:42:05.391Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:42:05.393Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:42:05.393Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:42:05.433Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:42:05.434Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:42:05.448Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:42:05.658Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:43:01.509Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:43:01.514Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:43:01.515Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:43:01.586Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:43:01.587Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:43:01.660Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:43:02.066Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:43:09.403Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:43:09.405Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:43:09.406Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:43:09.445Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:43:09.446Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:43:09.454Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:43:09.567Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:44:55.102Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:44:55.106Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:44:55.107Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:44:55.175Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:44:55.175Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:44:55.248Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:44:55.635Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:45:03.319Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:45:03.331Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:45:03.339Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:45:03.411Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:45:03.411Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:45:03.422Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:45:03.670Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:45:54.510Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:45:54.514Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:45:54.515Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:45:54.583Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:45:54.584Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:45:54.657Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:45:55.045Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:46:01.956Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:46:01.958Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:46:01.958Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:46:01.999Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:46:01.999Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:46:02.009Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:46:02.125Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:49:13.195Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:49:13.200Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:49:13.201Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:49:13.286Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:49:13.287Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:49:13.382Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:49:13.892Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:49:22.266Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:49:22.268Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:49:22.269Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:49:22.314Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:49:22.315Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:49:22.324Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:49:22.432Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:50:28.221Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:50:28.227Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:50:28.229Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:50:28.362Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:50:28.362Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:50:28.457Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:50:29.070Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:50:37.363Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:50:37.365Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:50:37.366Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:50:37.445Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:50:37.446Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:50:37.473Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:50:37.686Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:52:58.623Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:52:58.629Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:52:58.630Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:52:58.715Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:52:58.715Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:52:58.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:52:59.456Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:53:07.525Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:53:07.527Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:53:07.528Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:53:07.576Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:53:07.576Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:53:07.586Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:53:07.735Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:54:51.348Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:54:51.353Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:54:51.353Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:54:51.430Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:54:51.430Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:54:51.503Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:54:51.949Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:55:09.586Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:55:09.589Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:55:09.591Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:55:09.682Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:55:09.683Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:55:09.702Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:55:09.970Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:57:13.712Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:57:13.718Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:57:13.719Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:57:13.849Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:57:13.850Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:57:13.937Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:57:14.419Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:57:25.107Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:57:25.109Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:57:25.110Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:57:25.194Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:57:25.195Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:57:25.230Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:57:25.504Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:58:57.391Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:58:57.397Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:58:57.398Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:58:57.489Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:58:57.490Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:58:57.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:58:58.321Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:59:07.369Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:59:07.371Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:59:07.372Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:59:07.425Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:59:07.425Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:59:07.441Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:59:07.615Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T14:59:58.292Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T14:59:58.298Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T14:59:58.299Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:59:58.422Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T14:59:58.423Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T14:59:58.499Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T14:59:58.947Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:00:07.315Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:00:07.317Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:00:07.319Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:00:07.374Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:00:07.375Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:00:07.392Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:00:07.578Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:01:06.460Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:01:06.466Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:01:06.467Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:01:06.553Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:01:06.554Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:01:06.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:01:07.278Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:01:15.370Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:01:15.372Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:01:15.373Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:01:15.428Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:01:15.429Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:01:15.445Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:01:15.608Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:02:13.266Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:02:13.272Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:02:13.273Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:02:13.364Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:02:13.365Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:02:13.425Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:02:14.043Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:02:22.194Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:02:22.197Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:02:22.197Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:02:22.246Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:02:22.247Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:02:22.262Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:02:22.454Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:03:24.528Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:03:24.533Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:03:24.534Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:03:24.621Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:03:24.622Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:03:24.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:03:25.337Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:03:33.751Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:03:33.754Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:03:33.755Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:03:33.809Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:03:33.810Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:03:33.827Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:03:33.993Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:05:38.287Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:05:38.291Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:05:38.292Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:05:38.361Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:05:38.361Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:05:38.410Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:05:38.697Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:05:45.165Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:05:45.167Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:05:45.167Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:05:45.207Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:05:45.208Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:05:45.222Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:05:45.344Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:07:27.547Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:07:27.552Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:07:27.553Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:07:27.643Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:07:27.644Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:07:27.705Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:07:28.198Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:07:44.152Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:07:44.156Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:07:44.157Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:07:44.265Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:07:44.265Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:07:44.292Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:07:44.581Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:08:25.875Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:08:25.881Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:08:25.883Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:08:26.032Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:08:26.033Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:08:26.100Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:08:26.900Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:08:58.701Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:08:58.715Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:08:58.716Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:08:59.065Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:08:59.066Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:08:59.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:08:59.569Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:09:08.378Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:09:08.388Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:09:08.389Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:09:08.521Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:09:08.522Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:09:08.559Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:09:09.362Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:16:40.331Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:16:40.336Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:16:40.337Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:16:40.423Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:16:40.423Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:16:40.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:16:40.956Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:16:48.968Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:16:48.970Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:16:48.971Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:16:49.047Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:16:49.048Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:16:49.077Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:16:49.856Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:17:28.513Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:17:28.519Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:17:28.520Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:17:28.611Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:17:28.612Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:17:28.677Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:17:29.098Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:17:37.823Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:17:37.826Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:17:37.827Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:17:37.876Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:17:37.877Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:17:37.893Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:17:38.516Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:18:18.302Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:18:18.307Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:18:18.308Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:18:18.397Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:18:18.397Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:18:18.462Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:18:18.843Z"}
+{"level":"info","timestamp":"2018-09-14T15:18:19.231Z"}
+{"level":"info","message":"Application name: My RentalAPI","timestamp":"2018-09-14T15:18:27.281Z"}
+{"level":"info","message":"Mail Server: test-mail-server","timestamp":"2018-09-14T15:18:27.284Z"}
+{"level":"info","message":"Mail Password: 12334554","timestamp":"2018-09-14T15:18:27.285Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:18:27.333Z"}
+{"level":"info","message":"","timestamp":"2018-09-14T15:18:27.334Z"}
+{"level":"info","message":"Listening on port 3000....","timestamp":"2018-09-14T15:18:27.350Z"}
+{"level":"info","message":"Connected to mongodb://localhost/rentalAPI_tests...","timestamp":"2018-09-14T15:18:28.051Z"}
