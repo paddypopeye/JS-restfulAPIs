@@ -24,9 +24,7 @@ const Rental = mongoose.model('Rental', new mongoose.Schema({
             
         }),
         required: true,
-    },       
-    
-    
+    },
     movie:{
         type: new mongoose.Schema({
             title:{
@@ -42,7 +40,6 @@ const Rental = mongoose.model('Rental', new mongoose.Schema({
         }),
         required:true,
     },
-    
     dateOut:{
         type: Date,
         required: true,

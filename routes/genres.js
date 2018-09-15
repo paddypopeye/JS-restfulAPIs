@@ -11,22 +11,16 @@ router.get('/', async (req, res, next) =>{
     //throw new Error('Testing winston is working');
     const genres = await Genre.find().sort('name');
     res.send(genres);    
-    
-    
 });
 
 //Display a single genre endpoint
-router.get('/:id', validateObjectId, async (req,res) =>{
-    try{
-        const genre = await Genre.findById(req.params.id);
-    if (!genre) res.status(404).send('The genre was not found...');
-
+router.get('/:id', validateObjectId, async (req, res) => {
+    const genre = await Genre.findById(req.params.id);
+  
+    if (!genre) return res.status(404).send('The genre with the given ID was not found.');
+  
     res.send(genre);
-    }catch(ex){
-        res.status(500).send('Something Failed...!!!');
-    }
-    
-});
+  });
 
 //Create genre endpoint
 router.post('/', auth, async (req, res) =>{
@@ -40,12 +34,11 @@ router.post('/', auth, async (req, res) =>{
     res.send(genre);
     }catch(ex){
         res.status(500).send('Something Failed...!!!');
-    }
-    
+    }   
 });
 
 //Update genre endpoint
-router.put('/:id', auth, async (req, res) => { 
+router.put('/:id',[auth, validateObjectId], auth, async (req, res) => { 
     const { error } = validateGenre(req.body);
     if (error) return res.status(400).send(error.details[0].message);
 
@@ -61,11 +54,14 @@ router.put('/:id', auth, async (req, res) => {
 });
 
 //Delete genre endpoint
-router.delete('/:id', auth, async (req, res) => {
-    const genre =  await Genre.findByIdAndRemove(req.params.id);
-    if (!genre) return res.status(404).send('The genre with the given ID was not found.');
-    
-    res.send(genre);
-
+router.delete('/:id', [auth, admin, validateObjectId], async (req, res) => {
+    try{
+        const genre =  await Genre.findByIdAndRemove(req.params.id);
+        res.send(genre);
+    }
+    catch(ex){
+        if (!genre) return res.status(404).send('The genre with the given ID was not found.');
+    }
 });
+
 module.exports = router;

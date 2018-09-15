@@ -20,9 +20,9 @@
     </h1>
     <div class='clearfix'>
       <div class='fl pad1y space-right2'>
-        <span class="strong">100% </span>
+        <span class="strong">76% </span>
         <span class="quiet">Statements</span>
-        <span class='fraction'>23/23</span>
+        <span class='fraction'>19/25</span>
       </div>
       <div class='fl pad1y space-right2'>
         <span class="strong">100% </span>
@@ -35,13 +35,13 @@
         <span class='fraction'>1/1</span>
       </div>
       <div class='fl pad1y space-right2'>
-        <span class="strong">100% </span>
+        <span class="strong">76% </span>
         <span class="quiet">Lines</span>
-        <span class='fraction'>23/23</span>
+        <span class='fraction'>19/25</span>
       </div>
     </div>
   </div>
-  <div class='status-line high'></div>
+  <div class='status-line medium'></div>
 <pre><table class="coverage">
 <tr><td class="line-count quiet">1
 2
@@ -68,31 +68,35 @@
 23
 24
 25
-26</td><td class="line-coverage quiet"><span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
+26
+27
+28</td><td class="line-coverage quiet"><span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">2x</span>
+<span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">const express = require('express');
 const genres = require('../routes/genres');
 const users = require('../routes/users');
@@ -101,6 +105,7 @@ const customers = require('../routes/customers');
 const rentals = require('../routes/rentals');
 const auth = require('../routes/auth');
 const home = require('../routes/home');
+const returns = require('../routes/returns');
 const error = require('../middleware/error');
 const helmet = require('helmet');
 &nbsp;
@@ -112,19 +117,20 @@ module.exports = function(app){
     app.use(helmet());
     app.use('/api/auth', auth);
     app.use('/api/genres', genres);
-    app.use('/api/users', users);
-    app.use('/api/customers', customers);
-    app.use('/api/movies', movies);
-    app.use('/api/rentals', rentals);
-    app.use('/', home);
-    app.use(error);
+    app.use('/api/returns', returns);
+<span class="cstat-no" title="statement not covered" >    app.use('/api/users', users);</span>
+<span class="cstat-no" title="statement not covered" >    app.use('/api/customers', customers);</span>
+<span class="cstat-no" title="statement not covered" >    app.use('/api/movies', movies);</span>
+<span class="cstat-no" title="statement not covered" >    app.use('/api/rentals', rentals);</span>
+<span class="cstat-no" title="statement not covered" >    app.use('/', home);</span>
+<span class="cstat-no" title="statement not covered" >    app.use(error);</span>
 };</pre></td></tr>
 </table></pre>
 <div class='push'></div><!-- for sticky footer -->
 </div><!-- /wrapper -->
 <div class='footer quiet pad2 space-top1 center small'>
   Code coverage
-  generated by <a href="https://istanbul.js.org/" target="_blank">istanbul</a> at Fri Sep 14 2018 17:18:39 GMT+0200 (CEST)
+  generated by <a href="https://istanbul.js.org/" target="_blank">istanbul</a> at Sat Sep 15 2018 18:51:22 GMT+0200 (CEST)
 </div>
 </div>
 <script src="../../prettify.js"></script>

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose --coverage"
+    "test": "jest --watchAll --verbose"
   },
   " repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.10",
+    "moment": "^2.22.2",
     "mongoose": "^5.2.12",
     "morgan": "^1.9.0",
     "pug": "^2.0.3",
