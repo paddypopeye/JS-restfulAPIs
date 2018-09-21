@@ -1,0 +1,14 @@
+{   
+    "jwtPrivatekey": "jwtPrivateKey",
+
+    "db":"mongodb://localhost/rentalAPI",
+
+    "name":"My RentalAPI",
+    
+    "mail":{
+
+        "host":"def-mail-server"
+    },
+
+    "app_password": 1231434
+}

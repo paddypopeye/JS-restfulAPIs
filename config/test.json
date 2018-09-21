@@ -1,0 +1,11 @@
+{   
+    "jwtPrivatekey":"jwtPrivateKey",
+
+    "db":"mongodb://localhost/rentalAPI_tests",
+
+    "name":"My RentalAPI",
+    
+    "mail":{
+        "host":"test-mail-server"
+    }
+}

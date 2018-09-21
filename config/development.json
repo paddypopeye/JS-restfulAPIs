@@ -1,0 +1,6 @@
+{   "jwtPrivateKey": "jwtPrivateKey",
+    "name":"My RentalAPI Development",
+    "mail":{
+        "host":"dev-mail-server"
+    }
+}
